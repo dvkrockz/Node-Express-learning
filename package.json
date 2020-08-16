@@ -1,0 +1,24 @@
+{
+  "name": "Node-Express-learning",
+  "version": "1.0.0",
+  "description": "Learning nodejs along with express. TODO: combine with MongoDB and web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "RunServer": "node src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvkrockz/Node-Express-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvkrockz/Node-Express-learning/issues"
+  },
+  "homepage": "https://github.com/dvkrockz/Node-Express-learning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
